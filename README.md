@@ -1,0 +1,2 @@
+# chroot
+**chrooting in fedora**
