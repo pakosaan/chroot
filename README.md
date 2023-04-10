@@ -1,2 +1,2 @@
 # chroot
-**chrooting in fedora**
+**chrooting in fedora & fixing the grub2**
